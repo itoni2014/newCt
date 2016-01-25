@@ -1,10 +1,4 @@
-//
-//  ChartIchimokuView.m
-//  sec
-//
-//  Created by ias_sec on 2015/12/03.
-//
-//
+
 
 #import "ChartIchimokuView.h"
 #import "OhlcBean.h"

@@ -1,10 +1,3 @@
-//
-//  DropDownChooseProtocol.h
-//  DropDownDemo
-//
-//  Created by ias_sec on 2015/11/04.
-//  Copyright © 2015年 TnsStudio. All rights reserved.
-//
 
 #import <Foundation/Foundation.h>
 

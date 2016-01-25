@@ -1,10 +1,4 @@
-//
-//  DetailChartSubView.m
-//  sec
-//
-//  Created by ias_sec on 2015/12/02.
-//
-//
+
 
 #import "DetailChartSubView.h"
 #import "DetailChartView.h"

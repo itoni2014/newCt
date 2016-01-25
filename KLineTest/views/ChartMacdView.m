@@ -1,10 +1,4 @@
-//
-//  ChartMacdView.m
-//  sec
-//
-//  Created by ias_sec on 2015/12/03.
-//
-//
+
 
 #import "ChartMacdView.h"
 #import "DetailChartView.h"

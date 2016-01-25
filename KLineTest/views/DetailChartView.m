@@ -1,10 +1,4 @@
-//
-//  DetailChartView.m
-//  sec
-//
-//  Created by ias_sec on 2015/11/24.
-//
-//
+
 
 #import "DetailChartView.h"
 #import "ChartSettingView.h"

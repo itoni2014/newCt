@@ -1,10 +1,3 @@
-//
-//  TechnicalCalculating.m
-//  Prototype2
-//
-//  Created by ias_sec on 2015/11/06.
-//  Copyright © 2015年 TnsStudio. All rights reserved.
-//
 
 #import "TechnicalCalculating.h"
 #import "OhlcBean.h"

@@ -1,10 +1,4 @@
-//
-//  DetailChartView.h
-//  sec
-//
-//  Created by ias_sec on 2015/11/24.
-//
-//
+
 
 #import <UIKit/UIKit.h>
 //#import "ContentsPageBaseView.h"

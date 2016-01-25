@@ -1,10 +1,4 @@
-//
-//  SubChartNamesView.m
-//  sec
-//
-//  Created by ias_sec on 2015/12/10.
-//
-//
+
 
 #import "SubChartNamesView.h"
 #import "ChartBox.h"

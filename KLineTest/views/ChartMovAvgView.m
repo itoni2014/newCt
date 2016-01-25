@@ -1,10 +1,4 @@
-//
-//  DetailChartMovAvgView.m
-//  sec
-//
-//  Created by ias_sec on 2015/12/02.
-//
-//
+
 
 #import "ChartMovAvgView.h"
 #import "ChartBox.h"

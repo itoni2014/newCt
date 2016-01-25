@@ -1,10 +1,4 @@
-//
-//  DetailChartVolumeView.m
-//  sec
-//
-//  Created by ias_sec on 2015/12/02.
-//
-//
+
 
 #import "ChartVolumeView.h"
 #import "DetailChartView.h"

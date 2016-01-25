@@ -1,10 +1,4 @@
-//
-//  Constant.h
-//  Prototype2
-//
-//  Created by ias_sec on 2015/11/06.
-//  Copyright © 2015年 TnsStudio. All rights reserved.
-//
+
 
 #ifndef Header_h
 #define ORANGE_BG        @"ED753B"

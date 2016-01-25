@@ -1,10 +1,3 @@
-//
-//  FourPricesView.m
-//  sec
-//
-//  Created by ias_sec on 2015/12/10.
-//
-//
 
 #import "FourPricesView.h"
 #import "ChartBox.h"
