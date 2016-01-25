@@ -19,17 +19,17 @@
 -(id)initWithUrl:(NSString *)url{
     if (self){
         
-        // キャッシュしたデータを取得
-        NSArray *tempArray = (NSArray *)[ChartBox getUserDefaults:@"daydatas"];
-        if (tempArray.count > 0) {
-            self.dayDatas = tempArray;
-        }
-        
-        NSArray *lines = (NSArray *)[ChartBox getUserDefaults:[ChartBox md5HexDigest:url]];
-        if (lines.count > 0) {
-            [self changeData:lines];
-        }
-        else{
+//        // キャッシュしたデータを取得
+//        NSArray *tempArray = (NSArray *)[ChartBox getUserDefaults:@"daydatas"];
+//        if (tempArray.count > 0) {
+//            self.dayDatas = tempArray;
+//        }
+//        
+//        NSArray *lines = (NSArray *)[ChartBox getUserDefaults:[ChartBox md5HexDigest:url]];
+//        if (lines.count > 0) {
+//            [self changeData:lines];
+//        }
+//        else{
 //            NSLog(@"url: %@",url);
 //            NSURL *nurl = [NSURL URLWithString:[url stringByAddingPercentEscapesUsingEncoding:NSUTF8StringEncoding]];
 //            ASIHTTPRequest *request = [ASIHTTPRequest requestWithURL:nurl];
@@ -40,7 +40,7 @@
 //            [self Finished:request];
             
             
-        }
+//        }
     }
     return self;
 }
@@ -70,12 +70,12 @@
     [self.resultMutableArray removeAllObjects];
 
     NSInteger cnt;
-    if ( lines.count > CANDLESTICK_COUNT_ALL ) {
-        cnt = CANDLESTICK_COUNT_ALL;
-    }
-    else{
-        cnt = lines.count;
-    }
+//    if ( lines.count > CANDLESTICK_COUNT_ALL ) {
+//        cnt = CANDLESTICK_COUNT_ALL;
+//    }
+//    else{
+//        cnt = lines.count;
+//    }
     
     if(cnt < 400){
         cnt--;
