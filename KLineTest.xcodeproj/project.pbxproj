@@ -13,29 +13,6 @@
 		6675BA941C55AC8200B5E504 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6675BA921C55AC8200B5E504 /* Main.storyboard */; };
 		6675BA961C55AC8200B5E504 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6675BA951C55AC8200B5E504 /* Assets.xcassets */; };
 		6675BA991C55AC8200B5E504 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6675BA971C55AC8200B5E504 /* LaunchScreen.storyboard */; };
-		6675BAC31C55AD1500B5E504 /* ChartBollingerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6675BAA21C55AD1500B5E504 /* ChartBollingerView.m */; settings = {ASSET_TAGS = (); }; };
-		6675BAC41C55AD1500B5E504 /* ChartIchimokuView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6675BAA41C55AD1500B5E504 /* ChartIchimokuView.m */; settings = {ASSET_TAGS = (); }; };
-		6675BAC51C55AD1500B5E504 /* ChartMacdView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6675BAA61C55AD1500B5E504 /* ChartMacdView.m */; settings = {ASSET_TAGS = (); }; };
-		6675BAC61C55AD1500B5E504 /* ChartMovAvgView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6675BAA81C55AD1500B5E504 /* ChartMovAvgView.m */; settings = {ASSET_TAGS = (); }; };
-		6675BAC71C55AD1500B5E504 /* ChartNamesView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6675BAAA1C55AD1500B5E504 /* ChartNamesView.m */; settings = {ASSET_TAGS = (); }; };
-		6675BAC81C55AD1500B5E504 /* ChartRsiView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6675BAAC1C55AD1500B5E504 /* ChartRsiView.m */; settings = {ASSET_TAGS = (); }; };
-		6675BAC91C55AD1500B5E504 /* ChartSettingView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6675BAAE1C55AD1500B5E504 /* ChartSettingView.m */; settings = {ASSET_TAGS = (); }; };
-		6675BACA1C55AD1500B5E504 /* ChartStochasView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6675BAB01C55AD1500B5E504 /* ChartStochasView.m */; settings = {ASSET_TAGS = (); }; };
-		6675BACB1C55AD1500B5E504 /* ChartView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6675BAB21C55AD1500B5E504 /* ChartView.m */; settings = {ASSET_TAGS = (); }; };
-		6675BACC1C55AD1500B5E504 /* ChartVolumeView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6675BAB41C55AD1500B5E504 /* ChartVolumeView.m */; settings = {ASSET_TAGS = (); }; };
-		6675BACD1C55AD1500B5E504 /* DetailChartCandlestickView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6675BAB61C55AD1500B5E504 /* DetailChartCandlestickView.m */; settings = {ASSET_TAGS = (); }; };
-		6675BACE1C55AD1500B5E504 /* DetailChartDatetimeView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6675BAB81C55AD1500B5E504 /* DetailChartDatetimeView.m */; settings = {ASSET_TAGS = (); }; };
-		6675BACF1C55AD1500B5E504 /* DetailChartMainView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6675BABA1C55AD1500B5E504 /* DetailChartMainView.m */; settings = {ASSET_TAGS = (); }; };
-		6675BAD01C55AD1500B5E504 /* DetailChartSubView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6675BABC1C55AD1500B5E504 /* DetailChartSubView.m */; settings = {ASSET_TAGS = (); }; };
-		6675BAD11C55AD1500B5E504 /* DetailChartView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6675BABE1C55AD1500B5E504 /* DetailChartView.m */; settings = {ASSET_TAGS = (); }; };
-		6675BAD21C55AD1500B5E504 /* FourPricesView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6675BAC01C55AD1500B5E504 /* FourPricesView.m */; settings = {ASSET_TAGS = (); }; };
-		6675BAD31C55AD1500B5E504 /* SubChartNamesView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6675BAC21C55AD1500B5E504 /* SubChartNamesView.m */; settings = {ASSET_TAGS = (); }; };
-		6675BAE41C55AD3800B5E504 /* ChartBox.m in Sources */ = {isa = PBXBuildFile; fileRef = 6675BAD61C55AD3800B5E504 /* ChartBox.m */; settings = {ASSET_TAGS = (); }; };
-		6675BAE51C55AD3800B5E504 /* down_dark.png in Resources */ = {isa = PBXBuildFile; fileRef = 6675BAD81C55AD3800B5E504 /* down_dark.png */; settings = {ASSET_TAGS = (); }; };
-		6675BAE71C55AD3800B5E504 /* FetchData.m in Sources */ = {isa = PBXBuildFile; fileRef = 6675BADD1C55AD3800B5E504 /* FetchData.m */; settings = {ASSET_TAGS = (); }; };
-		6675BAE81C55AD3800B5E504 /* OhlcBean.m in Sources */ = {isa = PBXBuildFile; fileRef = 6675BADF1C55AD3800B5E504 /* OhlcBean.m */; settings = {ASSET_TAGS = (); }; };
-		6675BAE91C55AD3800B5E504 /* TechnicalCalculating.m in Sources */ = {isa = PBXBuildFile; fileRef = 6675BAE11C55AD3800B5E504 /* TechnicalCalculating.m */; settings = {ASSET_TAGS = (); }; };
-		6675BAEA1C55AD3800B5E504 /* UIColor+hex.m in Sources */ = {isa = PBXBuildFile; fileRef = 6675BAE31C55AD3800B5E504 /* UIColor+hex.m */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -49,53 +26,6 @@
 		6675BA951C55AC8200B5E504 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6675BA981C55AC8200B5E504 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6675BA9A1C55AC8200B5E504 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		6675BAA11C55AD1500B5E504 /* ChartBollingerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ChartBollingerView.h; path = views/ChartBollingerView.h; sourceTree = "<group>"; };
-		6675BAA21C55AD1500B5E504 /* ChartBollingerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ChartBollingerView.m; path = views/ChartBollingerView.m; sourceTree = "<group>"; };
-		6675BAA31C55AD1500B5E504 /* ChartIchimokuView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ChartIchimokuView.h; path = views/ChartIchimokuView.h; sourceTree = "<group>"; };
-		6675BAA41C55AD1500B5E504 /* ChartIchimokuView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ChartIchimokuView.m; path = views/ChartIchimokuView.m; sourceTree = "<group>"; };
-		6675BAA51C55AD1500B5E504 /* ChartMacdView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ChartMacdView.h; path = views/ChartMacdView.h; sourceTree = "<group>"; };
-		6675BAA61C55AD1500B5E504 /* ChartMacdView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ChartMacdView.m; path = views/ChartMacdView.m; sourceTree = "<group>"; };
-		6675BAA71C55AD1500B5E504 /* ChartMovAvgView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ChartMovAvgView.h; path = views/ChartMovAvgView.h; sourceTree = "<group>"; };
-		6675BAA81C55AD1500B5E504 /* ChartMovAvgView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ChartMovAvgView.m; path = views/ChartMovAvgView.m; sourceTree = "<group>"; };
-		6675BAA91C55AD1500B5E504 /* ChartNamesView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ChartNamesView.h; path = views/ChartNamesView.h; sourceTree = "<group>"; };
-		6675BAAA1C55AD1500B5E504 /* ChartNamesView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ChartNamesView.m; path = views/ChartNamesView.m; sourceTree = "<group>"; };
-		6675BAAB1C55AD1500B5E504 /* ChartRsiView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ChartRsiView.h; path = views/ChartRsiView.h; sourceTree = "<group>"; };
-		6675BAAC1C55AD1500B5E504 /* ChartRsiView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ChartRsiView.m; path = views/ChartRsiView.m; sourceTree = "<group>"; };
-		6675BAAD1C55AD1500B5E504 /* ChartSettingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ChartSettingView.h; path = views/ChartSettingView.h; sourceTree = "<group>"; };
-		6675BAAE1C55AD1500B5E504 /* ChartSettingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ChartSettingView.m; path = views/ChartSettingView.m; sourceTree = "<group>"; };
-		6675BAAF1C55AD1500B5E504 /* ChartStochasView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ChartStochasView.h; path = views/ChartStochasView.h; sourceTree = "<group>"; };
-		6675BAB01C55AD1500B5E504 /* ChartStochasView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ChartStochasView.m; path = views/ChartStochasView.m; sourceTree = "<group>"; };
-		6675BAB11C55AD1500B5E504 /* ChartView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ChartView.h; path = views/ChartView.h; sourceTree = "<group>"; };
-		6675BAB21C55AD1500B5E504 /* ChartView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ChartView.m; path = views/ChartView.m; sourceTree = "<group>"; };
-		6675BAB31C55AD1500B5E504 /* ChartVolumeView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ChartVolumeView.h; path = views/ChartVolumeView.h; sourceTree = "<group>"; };
-		6675BAB41C55AD1500B5E504 /* ChartVolumeView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ChartVolumeView.m; path = views/ChartVolumeView.m; sourceTree = "<group>"; };
-		6675BAB51C55AD1500B5E504 /* DetailChartCandlestickView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DetailChartCandlestickView.h; path = views/DetailChartCandlestickView.h; sourceTree = "<group>"; };
-		6675BAB61C55AD1500B5E504 /* DetailChartCandlestickView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DetailChartCandlestickView.m; path = views/DetailChartCandlestickView.m; sourceTree = "<group>"; };
-		6675BAB71C55AD1500B5E504 /* DetailChartDatetimeView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DetailChartDatetimeView.h; path = views/DetailChartDatetimeView.h; sourceTree = "<group>"; };
-		6675BAB81C55AD1500B5E504 /* DetailChartDatetimeView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DetailChartDatetimeView.m; path = views/DetailChartDatetimeView.m; sourceTree = "<group>"; };
-		6675BAB91C55AD1500B5E504 /* DetailChartMainView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DetailChartMainView.h; path = views/DetailChartMainView.h; sourceTree = "<group>"; };
-		6675BABA1C55AD1500B5E504 /* DetailChartMainView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DetailChartMainView.m; path = views/DetailChartMainView.m; sourceTree = "<group>"; };
-		6675BABB1C55AD1500B5E504 /* DetailChartSubView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DetailChartSubView.h; path = views/DetailChartSubView.h; sourceTree = "<group>"; };
-		6675BABC1C55AD1500B5E504 /* DetailChartSubView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DetailChartSubView.m; path = views/DetailChartSubView.m; sourceTree = "<group>"; };
-		6675BABD1C55AD1500B5E504 /* DetailChartView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DetailChartView.h; path = views/DetailChartView.h; sourceTree = "<group>"; };
-		6675BABE1C55AD1500B5E504 /* DetailChartView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DetailChartView.m; path = views/DetailChartView.m; sourceTree = "<group>"; };
-		6675BABF1C55AD1500B5E504 /* FourPricesView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FourPricesView.h; path = views/FourPricesView.h; sourceTree = "<group>"; };
-		6675BAC01C55AD1500B5E504 /* FourPricesView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FourPricesView.m; path = views/FourPricesView.m; sourceTree = "<group>"; };
-		6675BAC11C55AD1500B5E504 /* SubChartNamesView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SubChartNamesView.h; path = views/SubChartNamesView.h; sourceTree = "<group>"; };
-		6675BAC21C55AD1500B5E504 /* SubChartNamesView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SubChartNamesView.m; path = views/SubChartNamesView.m; sourceTree = "<group>"; };
-		6675BAD51C55AD3800B5E504 /* ChartBox.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ChartBox.h; path = Util/ChartBox.h; sourceTree = "<group>"; };
-		6675BAD61C55AD3800B5E504 /* ChartBox.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ChartBox.m; path = Util/ChartBox.m; sourceTree = "<group>"; };
-		6675BAD71C55AD3800B5E504 /* ContentsConstant.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ContentsConstant.h; path = Util/ContentsConstant.h; sourceTree = "<group>"; };
-		6675BAD81C55AD3800B5E504 /* down_dark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = down_dark.png; path = Util/down_dark.png; sourceTree = "<group>"; };
-		6675BAD91C55AD3800B5E504 /* DropDownChooseProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DropDownChooseProtocol.h; path = Util/DropDownChooseProtocol.h; sourceTree = "<group>"; };
-		6675BADC1C55AD3800B5E504 /* FetchData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FetchData.h; path = Util/FetchData.h; sourceTree = "<group>"; };
-		6675BADD1C55AD3800B5E504 /* FetchData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FetchData.m; path = Util/FetchData.m; sourceTree = "<group>"; };
-		6675BADE1C55AD3800B5E504 /* OhlcBean.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = OhlcBean.h; path = Util/OhlcBean.h; sourceTree = "<group>"; };
-		6675BADF1C55AD3800B5E504 /* OhlcBean.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = OhlcBean.m; path = Util/OhlcBean.m; sourceTree = "<group>"; };
-		6675BAE01C55AD3800B5E504 /* TechnicalCalculating.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TechnicalCalculating.h; path = Util/TechnicalCalculating.h; sourceTree = "<group>"; };
-		6675BAE11C55AD3800B5E504 /* TechnicalCalculating.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TechnicalCalculating.m; path = Util/TechnicalCalculating.m; sourceTree = "<group>"; };
-		6675BAE21C55AD3800B5E504 /* UIColor+hex.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIColor+hex.h"; path = "Util/UIColor+hex.h"; sourceTree = "<group>"; };
-		6675BAE31C55AD3800B5E504 /* UIColor+hex.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIColor+hex.m"; path = "Util/UIColor+hex.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -154,40 +84,6 @@
 		6675BAA01C55ACFE00B5E504 /* views */ = {
 			isa = PBXGroup;
 			children = (
-				6675BAB11C55AD1500B5E504 /* ChartView.h */,
-				6675BAB21C55AD1500B5E504 /* ChartView.m */,
-				6675BABD1C55AD1500B5E504 /* DetailChartView.h */,
-				6675BABE1C55AD1500B5E504 /* DetailChartView.m */,
-				6675BAA11C55AD1500B5E504 /* ChartBollingerView.h */,
-				6675BAA21C55AD1500B5E504 /* ChartBollingerView.m */,
-				6675BAA31C55AD1500B5E504 /* ChartIchimokuView.h */,
-				6675BAA41C55AD1500B5E504 /* ChartIchimokuView.m */,
-				6675BAA51C55AD1500B5E504 /* ChartMacdView.h */,
-				6675BAA61C55AD1500B5E504 /* ChartMacdView.m */,
-				6675BAA71C55AD1500B5E504 /* ChartMovAvgView.h */,
-				6675BAA81C55AD1500B5E504 /* ChartMovAvgView.m */,
-				6675BAA91C55AD1500B5E504 /* ChartNamesView.h */,
-				6675BAAA1C55AD1500B5E504 /* ChartNamesView.m */,
-				6675BAAB1C55AD1500B5E504 /* ChartRsiView.h */,
-				6675BAAC1C55AD1500B5E504 /* ChartRsiView.m */,
-				6675BAAD1C55AD1500B5E504 /* ChartSettingView.h */,
-				6675BAAE1C55AD1500B5E504 /* ChartSettingView.m */,
-				6675BAAF1C55AD1500B5E504 /* ChartStochasView.h */,
-				6675BAB01C55AD1500B5E504 /* ChartStochasView.m */,
-				6675BAB31C55AD1500B5E504 /* ChartVolumeView.h */,
-				6675BAB41C55AD1500B5E504 /* ChartVolumeView.m */,
-				6675BAB51C55AD1500B5E504 /* DetailChartCandlestickView.h */,
-				6675BAB61C55AD1500B5E504 /* DetailChartCandlestickView.m */,
-				6675BAB71C55AD1500B5E504 /* DetailChartDatetimeView.h */,
-				6675BAB81C55AD1500B5E504 /* DetailChartDatetimeView.m */,
-				6675BAB91C55AD1500B5E504 /* DetailChartMainView.h */,
-				6675BABA1C55AD1500B5E504 /* DetailChartMainView.m */,
-				6675BABB1C55AD1500B5E504 /* DetailChartSubView.h */,
-				6675BABC1C55AD1500B5E504 /* DetailChartSubView.m */,
-				6675BABF1C55AD1500B5E504 /* FourPricesView.h */,
-				6675BAC01C55AD1500B5E504 /* FourPricesView.m */,
-				6675BAC11C55AD1500B5E504 /* SubChartNamesView.h */,
-				6675BAC21C55AD1500B5E504 /* SubChartNamesView.m */,
 			);
 			name = views;
 			sourceTree = "<group>";
@@ -195,19 +91,6 @@
 		6675BAD41C55AD2B00B5E504 /* Util */ = {
 			isa = PBXGroup;
 			children = (
-				6675BAD51C55AD3800B5E504 /* ChartBox.h */,
-				6675BAD61C55AD3800B5E504 /* ChartBox.m */,
-				6675BAD71C55AD3800B5E504 /* ContentsConstant.h */,
-				6675BAD81C55AD3800B5E504 /* down_dark.png */,
-				6675BAD91C55AD3800B5E504 /* DropDownChooseProtocol.h */,
-				6675BADC1C55AD3800B5E504 /* FetchData.h */,
-				6675BADD1C55AD3800B5E504 /* FetchData.m */,
-				6675BADE1C55AD3800B5E504 /* OhlcBean.h */,
-				6675BADF1C55AD3800B5E504 /* OhlcBean.m */,
-				6675BAE01C55AD3800B5E504 /* TechnicalCalculating.h */,
-				6675BAE11C55AD3800B5E504 /* TechnicalCalculating.m */,
-				6675BAE21C55AD3800B5E504 /* UIColor+hex.h */,
-				6675BAE31C55AD3800B5E504 /* UIColor+hex.m */,
 			);
 			name = Util;
 			sourceTree = "<group>";
@@ -270,7 +153,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				6675BA991C55AC8200B5E504 /* LaunchScreen.storyboard in Resources */,
-				6675BAE51C55AD3800B5E504 /* down_dark.png in Resources */,
 				6675BA961C55AC8200B5E504 /* Assets.xcassets in Resources */,
 				6675BA941C55AC8200B5E504 /* Main.storyboard in Resources */,
 			);
@@ -283,31 +165,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6675BAC91C55AD1500B5E504 /* ChartSettingView.m in Sources */,
-				6675BAEA1C55AD3800B5E504 /* UIColor+hex.m in Sources */,
 				6675BA911C55AC8200B5E504 /* ViewController.m in Sources */,
-				6675BAC81C55AD1500B5E504 /* ChartRsiView.m in Sources */,
-				6675BAC41C55AD1500B5E504 /* ChartIchimokuView.m in Sources */,
-				6675BACC1C55AD1500B5E504 /* ChartVolumeView.m in Sources */,
-				6675BAD31C55AD1500B5E504 /* SubChartNamesView.m in Sources */,
-				6675BAE71C55AD3800B5E504 /* FetchData.m in Sources */,
-				6675BACF1C55AD1500B5E504 /* DetailChartMainView.m in Sources */,
-				6675BAE81C55AD3800B5E504 /* OhlcBean.m in Sources */,
-				6675BACA1C55AD1500B5E504 /* ChartStochasView.m in Sources */,
-				6675BAD21C55AD1500B5E504 /* FourPricesView.m in Sources */,
-				6675BAE41C55AD3800B5E504 /* ChartBox.m in Sources */,
 				6675BA8E1C55AC8200B5E504 /* AppDelegate.m in Sources */,
-				6675BAC31C55AD1500B5E504 /* ChartBollingerView.m in Sources */,
-				6675BAE91C55AD3800B5E504 /* TechnicalCalculating.m in Sources */,
-				6675BACD1C55AD1500B5E504 /* DetailChartCandlestickView.m in Sources */,
-				6675BAD11C55AD1500B5E504 /* DetailChartView.m in Sources */,
-				6675BAC71C55AD1500B5E504 /* ChartNamesView.m in Sources */,
-				6675BAC51C55AD1500B5E504 /* ChartMacdView.m in Sources */,
-				6675BAD01C55AD1500B5E504 /* DetailChartSubView.m in Sources */,
-				6675BAC61C55AD1500B5E504 /* ChartMovAvgView.m in Sources */,
 				6675BA8B1C55AC8200B5E504 /* main.m in Sources */,
-				6675BACE1C55AD1500B5E504 /* DetailChartDatetimeView.m in Sources */,
-				6675BACB1C55AD1500B5E504 /* ChartView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -454,6 +314,7 @@
 				6675BA9F1C55AC8200B5E504 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
